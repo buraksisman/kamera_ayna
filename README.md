@@ -21,7 +21,6 @@ By using a **small mirror mounted on this apparatus**, teachers can turn their l
 
 ## Files
 - `kamera_ayna_v1.stl`: The 3D model of the mirror mount to print.
-- (Optional) Additional design files or variations.
 
 ## What You’ll Need
 - 3D printer and PLA/ABS filament  
